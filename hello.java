@@ -15,7 +15,7 @@ System.out.println("The reverse of the given number is: " + reverse);
   
 System.out.println("The reverse of the given number is: " + reverse);  
   
-System.out.println("The reverse of the given number is: " + reverse); 
+
   System.out.println("hi from basil"); 
 }  
 }  
